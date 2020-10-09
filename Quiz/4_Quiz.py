@@ -1,4 +1,5 @@
 
+# break and continue satement use in one loop
 
 while (True):
     print("Enter Integer number")
