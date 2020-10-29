@@ -43,3 +43,4 @@ emp = Employee("harry",123,"Programmer")
 print(emp._protec)
 # print(emp.__private)
 print(emp._Employee__priv) # it is namemanling conspact is their
+print(emp.no_of_leaves)

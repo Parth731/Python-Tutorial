@@ -9,20 +9,20 @@ func2()
 
 
 # we can return function inside function
-# def functionret(num):
-#     if num == 0:
-#         return print
-#     else:
-#         return sum
+def functionret(num):
+    if num == 0:
+        return print
+    else:
+        return sum
 
-# a = functionret(1)
-# print(a)
+a = functionret(1)
+print(a)
 
 # we can pass function as argument
-# def executor(func):
-#     func("this")
-#
-# executor(print)
+def executor(func):
+    func("this")
+
+executor(print)
 
 
 # decorators

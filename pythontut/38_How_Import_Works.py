@@ -1,9 +1,9 @@
 
-# import  sklearn as sk
-# print(sk.__version__)
+import  sklearn as sk
+print(sk.__version__)
 
-# import sys
-# print(sys.path)
+import sys
+print(sys.path)
 
 
 # note:  not make file name same as module name

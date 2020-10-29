@@ -1,0 +1,28 @@
+
+
+list datatype
+-insertion order is preserved
+-heterogeneous object are allowed
+-duplicates are allowed
+-growable in nature
+-values should be enclosed within square
+
+tuple datatype
+-we can not change value
+-tuple element can be represented within parenthesis
+-tuple is the read only version of list
+
+set datatype
+-insertion order is not preserved
+-duplicate are not allowed
+-heterogeneous object are allowed
+-index concept is not allowed
+-it is mutable collection
+-growable in nature
+
+frozenset datatype
+-we can not use add or remove functions
+
+dictionary datatype
+-kay-pair value
+

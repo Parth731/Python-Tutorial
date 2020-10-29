@@ -25,3 +25,4 @@ print(c is b)
 a = [6,4,"34"]
 b = [6,4,"34"]
 print(a is b)   # false
+print(a == b)

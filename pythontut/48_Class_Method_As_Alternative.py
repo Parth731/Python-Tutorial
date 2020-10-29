@@ -42,7 +42,7 @@ print(parth.salary)
 
 # print(Employee.no_of_leaves) #34
 
-print(harry.no_of_leaves) #34
+print(harry.no_of_leaves) #8
 
 
 

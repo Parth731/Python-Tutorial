@@ -29,7 +29,8 @@ class Employee:
 
 
 
-# note: when Employee constructor call, email is intization after than we can't change email so email property will used
+# note: when Employee constructor call, email is intization after than we can't
+# change email so email property will used
 
 hindustani_supporter = Employee("Hindustani","supporter")       # step 1: create object
 # nikhil_raj_pandey = Employee("Nikhil", "raj")

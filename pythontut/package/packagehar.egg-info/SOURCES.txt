@@ -1,0 +1,5 @@
+setup.py
+packagehar.egg-info/PKG-INFO
+packagehar.egg-info/SOURCES.txt
+packagehar.egg-info/dependency_links.txt
+packagehar.egg-info/top_level.txt

@@ -29,7 +29,7 @@ class  Rectangle(shape):
         self.breadth = 7
 
     # here commented printarea function error generated
-    #  error: Can't instantiate abstract class Rectangle with abstract methods printarea
+    #  error: Can't instantiate abstract class shape with abstract methods printarea
     def printarea(self):
         return self.length * self.breadth
 
@@ -37,4 +37,5 @@ rect1 = Rectangle()
 print(rect1.printarea())
 
 # can not create object directly
-tryobj = shape()
+# Can't instantiate abstract class shape with abstract methods printarea
+# tryobj = shape()
