@@ -24,7 +24,8 @@ urlpatterns = [
     path('', views.index, name='index'),
     # path('ex1', Exercise1.ex1, name="ex1"),
     path('analyze',views.analyze,name='analyze'),
-    path('analyze',Exercise2.ex2, name="ex2")
+    path('analyze',Exercise2.ex2, name="ex2"),
+    path('about', views.about, name='about')
 
 
 ]
